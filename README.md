@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Go, Micro-Services, K8s, Helm, Terraform, Docker, Cloud Platform development 
 - 🌱 I’m currently learning Cloud Compute, Infra & Networking,  Blockchain
 - 👯 I’m looking to collaborate on IBM Cloud
