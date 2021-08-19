@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**ashurai/ashurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Go, Micro-Services, K8s, Helm, Terraform, Docker, Cloud Platform development 
