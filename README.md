@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Go, Micro-Services, K8s, Helm, Terraform, Docker, Cloud Platform development 
+- 🔭 I’m currently working on SRE, Go, Micro-Services, K8s, Helm, Terraform, Docker, Cloud Platform development 
 - 🌱 I’m currently learning Cloud Compute, Infra & Networking,  Blockchain
 - 👯 I’m looking to collaborate on Cloud, Networking & Blockchain 
 - 💬 Ask me about Go, PHP, K8s, Docker, Cloud, etc..
